@@ -101,3 +101,10 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+  - title: Facebook
+    url: https://www.facebook.com/mmKaliLinuxOrganization/
+    icon: fab fa-facebook-square
+  - title: GitHub
+    url: https://github.com/mmkali
+    icon: fab fa-github-square
+
